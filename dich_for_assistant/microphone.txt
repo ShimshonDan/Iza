@@ -1,0 +1,23 @@
+Microsoft Sound Mapper - Input
+Microphone Array (Realtek(R) Au
+Стерео микшер (Realtek(R) Audio
+Microsoft Sound Mapper - Output
+Headphone (Realtek(R) Audio)
+Speaker (Realtek(R) Audio)
+Первичный драйвер записи звука
+Microphone Array (Realtek(R) Audio)
+Стерео микшер (Realtek(R) Audio)
+Первичный звуковой драйвер
+Headphone (Realtek(R) Audio)
+Speaker (Realtek(R) Audio)
+Speaker (Realtek(R) Audio)
+Headphone (Realtek(R) Audio)
+Microphone Array (Realtek(R) Audio)
+Стерео микшер (Realtek(R) Audio)
+Набор микрофонов (Realtek HD Audio Mic input)
+Headphones (Realtek HD Audio 2nd output)
+Speakers 1 (Realtek HD Audio output with HAP)
+Speakers 2 (Realtek HD Audio output with HAP)
+Динамик ПК (Realtek HD Audio output with HAP)
+Mic in at front panel (black) (Mic in at front panel (black))
+Стерео микшер (Realtek HD Audio Stereo input)
